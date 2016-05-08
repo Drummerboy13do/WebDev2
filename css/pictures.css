@@ -1,0 +1,68 @@
+body {
+	background-color: #ffff99;
+}
+
+.jumbotron {
+	margin-top: 5px;
+	background: ff751a; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left top, #ff751a, #ffd1b3); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(bottom right, #ff751a, #ffd1b3); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(bottom right, #ff751a, #ffd1b3); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to bottom right, #ff751a, #ffd1b3); /* Standard syntax */
+	color: #737373;
+	margin-bottom: 50px;
+	border: 1px black solid;
+}
+
+.jumbotron h1 {
+	font-size: 60px;
+	text-align: center;
+	font-family: Serif;
+} 
+
+.jumbotron p {
+	font-size: 30px;
+	text-align: center;
+	font-family: Serif;
+}
+
+.navbar {
+	margin-bottom: 20px;
+	margin-top: 5px;
+	background-color: #1a1a1a;
+}
+
+.footer {
+	text-align: center;
+	background-color: #1a1a1a;
+	padding-top: 10px;
+	color: #737373;
+}
+
+.page-header {
+	text-align: center;
+	font-family: Georgia;
+	font-size: 45px;
+}
+
+img {
+	border-radius: 20px;
+	margin-bottom: 40px;
+	border: 2px red solid;
+}
+
+h3 {
+	font-family: Serif;
+	font-size: 25px;
+	float: right;
+	margin-right: 50px;
+	margin-top: 60px;
+}
+
+.col-md-4 p {
+	float: right;
+	margin-right: 225px;
+	font-family: TimeNewRoman;
+	font-size: 15px;
+	text-decoration: underline;
+}
